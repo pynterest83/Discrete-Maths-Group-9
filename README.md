@@ -1,2 +1,11 @@
-# Discrete-Math-Group-9
-INT-1050_20
+# Member
+
+Nguyễn Huy Tú*
+Nguyễn Hồ Bắc 
+Nguyễn Thái Huy
+Đinh Tuấn Hiệp
+Hoàng Anh Minh
+Bùi Quốc Khánh
+Nguyễn Hữu Quang
+Chu Huy Quang
+Trần Anh Tuấn
